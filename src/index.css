@@ -1,0 +1,19 @@
+@font-face {
+    font-family: "Exceedlim";
+    src: url("inc/Libre_Baskerville/LibreBaskerville-Bold.ttf");
+}
+body {
+    font-family: "Avenir Next";
+}
+.nav-link:hover{
+    text-decoration: underline;
+    color: saddlebrown;
+
+}
+#list{
+    box-shadow: black;
+}
+#list-header>li{
+    margin-left: 30px;
+}
+
